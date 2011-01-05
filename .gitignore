@@ -1,0 +1,9 @@
+
+Desktop.ini
+*.suo
+bin/*.*
+mts.ico
+src/_ReSharper*
+src/PhoneBall/obj/*
+*.user
+*.ReSharper
